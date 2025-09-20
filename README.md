@@ -54,11 +54,6 @@ By participating, I aim to:
 | Week | Milestone |
 |------|-----------|
 | Week-0 | Setup tools and environment |
-| Week-1 | RTL module development |
-| Week-2 | Simulation and verification |
-| Week-3 | Synthesis using Yosys |
-| Week-4 | Tapeout preparation and flow understanding |
-| Week-5+ | Advanced RTL optimization and documentation |
 
 > **Note:** Timeline is iterative and may be updated as progress continues.
 
@@ -96,11 +91,5 @@ Special thanks to the mentors and contributors guiding participants through **di
 
 ---
 
-## Interactive Elements
 
-- **Table of Contents** with links to all sections.  
-- **Tables for tasks, tools, milestones, and learning outcomes**.  
-- Ready-to-expand sections for **System Overview** and **Future Works**.  
-
----
 
